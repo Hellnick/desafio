@@ -102,6 +102,11 @@ input {
   font-size: 2rem;
 }
 
+.socials a {
+  text-decoration: none;
+  color: initial;
+}
+
 .foot {
   width: 100vw;
   background-color: #fff;
@@ -113,7 +118,7 @@ input {
   margin: 1rem 0;
 }
 
-.foot a {
+.extra a {
   color: #000;
   font-family: Montserrat;
   text-decoration: underline;
